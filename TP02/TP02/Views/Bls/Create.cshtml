@@ -1,0 +1,34 @@
+﻿@model TP02.Models.Bl
+
+<div class="container mt-4" style="max-width: 600px;">
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Cadastrar Novo BL</h4>
+        </div>
+        <div class="card-body">
+            <form action="/Bls/Create" method="post">
+                @Html.AntiForgeryToken()
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Número do BL</label>
+                    <input type="text" name="Numero" class="form-control" placeholder="Ex: BL-12345" required />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Consignee (Destinatário)</label>
+                    <input type="text" name="Consignee" class="form-control" placeholder="Ex: Empresa Importadora" required />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Nome do Navio</label>
+                    <input type="text" name="Navio" class="form-control" placeholder="Ex: MSC Orion" required />
+                </div>
+
+                <div class="d-flex justify-content-between pt-2">
+                    <a href="/Bls" class="btn btn-outline-secondary">Voltar</a>
+                    <button type="submit" class="btn btn-success">Salvar BL</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

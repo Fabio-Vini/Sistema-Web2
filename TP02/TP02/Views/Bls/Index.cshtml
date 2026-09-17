@@ -1,0 +1,45 @@
+﻿@model IEnumerable<TP02.Models.Bl>
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2><i class="bi bi-file-earmark-text"></i> Relatório de BLs Cadastrados</h2>
+        <div>
+            <a href="/" class="btn btn-outline-secondary me-2">Voltar para Home</a>
+            <a href="/Bls/Create" class="btn btn-primary">Novo BL</a>
+        </div>
+    </div>
+
+    <table class="table table-striped table-hover border shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Número do BL</th>
+                <th>Consignee</th>
+                <th>Navio</th>
+                <th class="text-center">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td><strong>@item.Numero</strong></td>
+                        <td>@item.Consignee</td>
+                        <td>@item.Navio</td>
+                        <td class="text-center">
+                            <a href="/Bls/Edit/@item.Id" class="btn btn-sm btn-warning me-1">Editar</a>
+                            <a href="/Bls/Delete/@item.Id" class="btn btn-sm btn-danger">Excluir</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4" class="text-center text-muted">Nenhum BL cadastrado até o momento.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

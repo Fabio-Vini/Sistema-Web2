@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno\\source\\repos\\TP02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\controllers\\containerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\controllers\\containerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\controllers\\blscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\controllers\\blscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\views\\containers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\views\\containers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\views\\containers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\views\\containers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\views\\bls\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\views\\bls\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\views\\bls\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\views\\bls\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\models\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\models\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\views\\containers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\views\\containers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\views\\containers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\views\\containers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\views\\bls\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\views\\bls\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\views\\bls\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\views\\bls\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\tp02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\tp02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\nuget.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\nuget.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|c:\\users\\aluno\\source\\repos\\tp02\\tp02\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C41072-303E-4E49-8FB6-0488214944D4}|TP02\\TP02.csproj|solutionrelative:tp02\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContainersController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Controllers\\ContainersController.cs",
+              "RelativeDocumentMoniker": "TP02\\Controllers\\ContainersController.cs",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Controllers\\ContainersController.cs",
+              "RelativeToolTip": "TP02\\Controllers\\ContainersController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwGAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:10:53.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Program.cs",
+              "RelativeDocumentMoniker": "TP02\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Program.cs",
+              "RelativeToolTip": "TP02\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:17:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlsController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Controllers\\BlsController.cs",
+              "RelativeDocumentMoniker": "TP02\\Controllers\\BlsController.cs",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Controllers\\BlsController.cs",
+              "RelativeToolTip": "TP02\\Controllers\\BlsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:08:41.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TP02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TP02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T00:16:09.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Containers\\Index.cshtml",
+              "RelativeDocumentMoniker": "TP02\\Views\\Containers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Containers\\Index.cshtml",
+              "RelativeToolTip": "TP02\\Views\\Containers\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T23:14:04.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Containers\\Create.cshtml",
+              "RelativeDocumentMoniker": "TP02\\Views\\Containers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Containers\\Create.cshtml",
+              "RelativeToolTip": "TP02\\Views\\Containers\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T23:14:40.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Bls\\Create.cshtml",
+              "RelativeDocumentMoniker": "TP02\\Views\\Bls\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Bls\\Create.cshtml",
+              "RelativeToolTip": "TP02\\Views\\Bls\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T23:58:29.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Bls\\Index.cshtml",
+              "RelativeDocumentMoniker": "TP02\\Views\\Bls\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Bls\\Index.cshtml",
+              "RelativeToolTip": "TP02\\Views\\Bls\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T23:48:12.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bl.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Models\\Bl.cs",
+              "RelativeDocumentMoniker": "TP02\\Models\\Bl.cs",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Models\\Bl.cs",
+              "RelativeToolTip": "TP02\\Models\\Bl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:04:39.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TP02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TP02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-17T00:12:09.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Containers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TP02\\Views\\Containers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Containers\\Edit.cshtml",
+              "RelativeToolTip": "TP02\\Views\\Containers\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T23:51:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Bls\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TP02\\Views\\Bls\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Bls\\Delete.cshtml",
+              "RelativeToolTip": "TP02\\Views\\Bls\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T23:50:54.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Bls\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TP02\\Views\\Bls\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Bls\\Edit.cshtml",
+              "RelativeToolTip": "TP02\\Views\\Bls\\Edit.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T23:50:09.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Containers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TP02\\Views\\Containers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Views\\Containers\\Delete.cshtml",
+              "RelativeToolTip": "TP02\\Views\\Containers\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T23:51:50.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\nuget.config",
+              "RelativeDocumentMoniker": "TP02\\nuget.config",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\nuget.config",
+              "RelativeToolTip": "TP02\\nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-16T23:37:21.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\appsettings.json",
+              "RelativeDocumentMoniker": "TP02\\appsettings.json",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\appsettings.json",
+              "RelativeToolTip": "TP02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-16T23:17:33.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Models\\Container.cs",
+              "RelativeDocumentMoniker": "TP02\\Models\\Container.cs",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\Models\\Container.cs",
+              "RelativeToolTip": "TP02\\Models\\Container.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:05:47.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TP02.csproj",
+              "DocumentMoniker": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\TP02.csproj",
+              "RelativeDocumentMoniker": "TP02\\TP02.csproj",
+              "ToolTip": "C:\\Users\\aluno\\source\\repos\\TP02\\TP02\\TP02.csproj",
+              "RelativeToolTip": "TP02\\TP02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-16T23:38:06.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

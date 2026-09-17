@@ -1,0 +1,38 @@
+﻿@model TP02.Models.Container
+
+<div class="container mt-4" style="max-width: 600px;">
+    <div class="card shadow">
+        <div class="card-header bg-warning text-dark"><h4>Editar Container</h4></div>
+        <div class="card-body">
+            <form asp-action="Edit">
+                <input type="hidden" asp-for="Id" />
+                <div class="mb-3">
+                    <label asp-for="Numero" class="form-label">Número do Container</label>
+                    <input asp-for="Numero" class="form-control" maxlength="11" required />
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Tipo" class="form-label">Tipo</label>
+                    <select asp-for="Tipo" class="form-select">
+                        <option value="Dry">Dry</option>
+                        <option value="Reefer">Reefer</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Tamanho" class="form-label">Tamanho</label>
+                    <select asp-for="Tamanho" class="form-select">
+                        <option value="20">20</option>
+                        <option value="40">40</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="BlId" class="form-label">BL Associado</label>
+                    <select asp-for="BlId" class="form-select" asp-items="ViewBag.BlId" required></select>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                    <button type="submit" class="btn btn-primary">Atualizar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
