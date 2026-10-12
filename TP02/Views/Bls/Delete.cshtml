@@ -1,0 +1,33 @@
+@model Bl
+@{
+    ViewData["Title"] = "Excluir BL";
+}
+
+<div class="form-card card border-danger shadow-sm mx-auto">
+    <div class="card-header bg-danger text-white"><h1 class="h4 mb-0">Confirmar exclusão</h1></div>
+    <div class="card-body">
+        @if (Model.Containers.Any())
+        {
+            <div class="alert alert-warning">
+                Este BL possui @Model.Containers.Count container(s). Ele não poderá ser excluído enquanto houver vínculos.
+            </div>
+        }
+        <dl class="row">
+            <dt class="col-sm-4">Número</dt><dd class="col-sm-8">@Model.Numero</dd>
+            <dt class="col-sm-4">Consignee</dt><dd class="col-sm-8">@Model.Consignee</dd>
+            <dt class="col-sm-4">Navio</dt><dd class="col-sm-8">@Model.Navio</dd>
+        </dl>
+        <form asp-action="Delete" asp-route-id="@Model.Id" method="post" class="d-flex justify-content-between">
+            <input type="hidden" asp-for="Id" />
+            <a asp-action="Index" class="btn btn-outline-secondary">Cancelar</a>
+            @if (Model.Containers.Any())
+            {
+                <button type="button" class="btn btn-danger" disabled>Excluir</button>
+            }
+            else
+            {
+                <button type="submit" class="btn btn-danger">Excluir</button>
+            }
+        </form>
+    </div>
+</div>
