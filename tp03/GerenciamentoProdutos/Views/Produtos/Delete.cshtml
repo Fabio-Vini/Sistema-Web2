@@ -1,0 +1,39 @@
+
+@model GerenciamentoProdutos.Models.Produto
+
+@{
+    ViewData["Title"] = "Excluir Produto";
+}
+
+<h1>Excluir Produto</h1>
+
+<h4>Tem certeza de que deseja excluir este produto?</h4>
+
+<div class="card p-3 mb-3">
+    <dl class="row">
+        <dt class="col-sm-3">ID</dt>
+        <dd class="col-sm-9">@Model.Id</dd>
+
+        <dt class="col-sm-3">Nome</dt>
+        <dd class="col-sm-9">@Model.Nome</dd>
+
+        <dt class="col-sm-3">Descrição</dt>
+        <dd class="col-sm-9">@Model.Descricao</dd>
+
+        <dt class="col-sm-3">Preço</dt>
+        <dd class="col-sm-9">@Model.Preco.ToString("C")</dd>
+
+        <dt class="col-sm-3">Quantidade em estoque</dt>
+        <dd class="col-sm-9">@Model.QuantidadeEstoque</dd>
+    </dl>
+</div>
+
+<form asp-action="Delete" asp-route-id="@Model.Id" method="post">
+    <button type="submit" class="btn btn-danger">
+        Confirmar exclusão
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Cancelar
+    </a>
+</form>
